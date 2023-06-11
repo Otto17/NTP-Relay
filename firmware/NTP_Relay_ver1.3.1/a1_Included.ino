@@ -6,7 +6,7 @@
 #include <WiFiClient.h>         // Библиотека для объявления клиента, который будет контактировать с хостом [в ядре ESP8266]
 #include <ArduinoJson.h>        // Библиотека для работы с файлами JSON "https://github.com/bblanchon/ArduinoJson" [используется ver. 6.21.2]
 #include <MOD_SimplePortal.h>   // ФОРК библиотеки "SimplePortal". Простой WiFi менеджер с возможностью задания Логина/Пароля для WEB интерфейса "https://github.com/Otto17/MOD_SimplePortal" [используется ver. 0.1]
-#include <GyverPortal.h>        // Конструктор веб интерфейсов для ESP8266 и ESP32 "https://github.com/GyverLibs/GyverPortal" [используется ver. v3.6.4]
+#include <GyverPortal.h>        // Конструктор веб интерфейсов для ESP8266 и ESP32 "https://github.com/GyverLibs/GyverPortal" [используется ver. v3.6.6]
 #include <MOD_GyverNTP.h>       // Форк библиотеки для получения точного времени с NTP сервера "https://github.com/Otto17/MOD_GyverNTP" [используется ver. ver. 0.1]
 #include "EncButton.h"          // Библиотека для работы с кнопками "https://github.com/GyverLibs/EncButton" [используется ver. 2.0]
 
